@@ -1,0 +1,58 @@
+HTML is the language which we use to create documents that we want share accross world wide web /internet
+
+URI/URL universal resource identifier/locater
+HTTP:Hyper text transfer protocal is language for exchanging the information 
+
+HTML is a Markup Language
+            |
+            V
+     Meant to be processed by Client/browser
+     
+     TAGS:
+     
+     <head> :  meta data, the information which the browser will use but not neccesarily displayed to the user.
+     <title>: title of the document, diplayed in the window tab,window bar
+     <meta> : meta data about the document, ex: info about the author.
+     <script>: to include java script
+     <style>: cascading elements
+     <link>: says there are other documents are linked, ex:css file is some where else other than the current file
+     <base>: base address for all relative links.
+     
+     <body>: the information which we want to display to the user-- data
+             we have headings, text,lists, links , tables, images and objects(audio or vedio)
+             
+             with in the body there are id and class attributes.
+             
+             the id helps to unqiely identify an item in the page,the class is also used to identify the item
+             
+             
+             
+             
+             
+             TEXT ELEMENTS IN HTML
+             
+             sections headings
+             <h1> : primary heading of the document.
+             <h2-h6>:
+             
+             Block elements:
+             
+             container elements for grouping
+             may contain other block elements and line elements.
+             
+             inline elements:
+             
+             container for text and other inline elements ex:acronyms, abbrievations.
+             
+             TEXT BREAKING AND WHITESPACES
+             
+             white space is generally igoned in blocks and inline
+             
+             <pre>: whitespace is respected.
+             <br> : explicit line break.
+             <hr> : horizontal rule.
+             Character entities  &lt;  for < &gt; for > &nbsp
+             
+             
+     
+     
